@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ウィークエンドロール",
+  "base_artist": "halca",
+  "createdAt": "2025-12-01T07:02:10.230845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウィークエンドロール",
+      "artist": "halca",
+      "has_synced": true,
+      "path": "select/01_ウィークエンドロール_halca.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウィークエンドロール - Weekend Roll",
+      "artist": "halca",
+      "has_synced": true,
+      "path": "select/02_ウィークエンドロール_-_Weekend_Roll_halca.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウィークエンドロール",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_01_ウィークエンドロール_halca.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ウィークエンドロール",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_02_ウィークエンドロール_halca.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ウィークエンドロール - TV Size",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_03_ウィークエンドロール_-_TV_Size_halca.txt"
+    }
+  ]
+}
